@@ -1,0 +1,50 @@
+.username {
+    color: var(--color-blue);
+    font-family: var(--font-secondary);
+    font-weight: 400;
+    font-size: 0.9375rem;
+    line-height: 1.4063rem;
+}
+
+.banner__welcome {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 3.6306rem;
+    width: 320px;
+    white-space: wrap;
+    margin-bottom: 30px;
+}
+
+.banner__paragraph {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.875rem;
+}
+
+.banner__button {
+    color: var(--color-white);
+    background-color: var(--color-blue);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+    border-style: none;
+    border-radius: 0.75rem;
+    Width: 7.125rem;
+    Height: 2.4375rem;
+    border: 0.0625rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.banner__section  {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row-reverse;
+   position: relative;
+}

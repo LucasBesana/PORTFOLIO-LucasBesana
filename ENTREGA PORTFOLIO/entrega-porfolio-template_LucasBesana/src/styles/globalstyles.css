@@ -1,0 +1,60 @@
+:root {
+    --color-white: rgba(255, 255, 255, 1);
+    --color-black: #000;
+    --color-blue: rgba(104, 128, 255, 1);
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Poppins', sans-serif;
+}
+
+.portifolio__content {
+    background-color: #000;
+}
+
+.aboutMe__content {
+    display: flex;
+}
+
+.container__header {
+    width: 100%;
+    max-width: 898px;
+    margin: 0 auto;
+}
+
+.container__banner {
+    width: 100%;
+    max-width: 882px;
+    margin: 0 auto;
+}
+
+.container__aboutMe {
+    width: 100%;
+    max-width: 896px;
+    margin: 0 auto;
+}
+
+.container__tech {
+    width: 100%;
+    max-width: 896px;
+    margin: 0 auto;
+}
+
+.container__projects {
+    width: 100%;
+    max-width: 896px;
+    margin: 0 auto;
+}
+
+.container__footer {
+    width: 100%;
+    max-width: 896px;
+    margin: 0 auto;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+
+

@@ -1,0 +1,27 @@
+.button1 {
+    color: var(--color-white);
+    background-color: var(--color-blue);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+    border-style: none;
+    border-radius: 0.75rem;
+    Width: 7.125rem;
+    Height: 2.4375rem;
+    border: 0.0625rem;
+}
+
+.button2 {
+    color: var(--color-white);
+    background-color: var(--color-blue);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+    border-style: none;
+    border-radius: 0.75rem;
+    width: 8.125rem;
+    height: 2.4375rem;
+    border: 0.0625rem;
+}

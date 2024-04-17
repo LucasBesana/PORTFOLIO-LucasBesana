@@ -1,0 +1,61 @@
+.header__content {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-block: 25px;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+
+.header__title {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 1.375rem;
+    line-height: 1.6456rem;
+}
+
+.about__header {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+    width: 40px;
+}
+
+.stack__header {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+}
+
+.projects__header {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+}
+
+.header__button {
+    color: var(--color-white);
+    background-color: var(--color-blue);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.0588rem;
+    border-style: none;
+    border-radius: 0.75rem;
+    Width: 7.125rem;
+    Height: 2.4375rem;
+    border: 0.0625rem;
+}
+
+.header__div {
+    display: flex;
+    justify-content: space-between;
+    width: 296px;
+}

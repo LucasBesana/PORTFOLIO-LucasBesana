@@ -1,0 +1,33 @@
+.tecnology__container {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 2.5rem;
+    line-height: 3.0256rem;
+}
+
+.tecnology__title {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 1.375rem;
+    line-height: 1.6456rem;
+}
+
+.container__tech li {
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    display: flex;
+    padding: 10px 29px;
+    gap: 34px;
+    width: 23%;
+    height: 86px;
+    align-items: center;
+}
+
+.container__tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 17px;
+    margin-top: 28px;
+}

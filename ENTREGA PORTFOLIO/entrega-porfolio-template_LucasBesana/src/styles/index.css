@@ -1,0 +1,10 @@
+@import "./reset.css";
+@import "./globalstyles.css";
+@import "./buttons.css";
+@import "./header/index.css";
+@import "./aboutMe/index.css";
+@import "./banner/index.css";
+@import "./footer/index.css";
+@import "./projects/index.css";
+@import "./technologies/index.css";
+
